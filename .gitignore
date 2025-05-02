@@ -2,10 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-<<<<<<< HEAD
-.utmp/
-=======
->>>>>>> 5cdb172 (Initial commit)
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -63,10 +59,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-<<<<<<< HEAD
-*.unitypackage.meta
-=======
->>>>>>> 5cdb172 (Initial commit)
 *.app
 
 # Crashlytics generated file
